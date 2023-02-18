@@ -1,6 +1,6 @@
 Django Bank Application
 This is a web-based bank application built using Django, HTML, CSS, and JavaScript. The application allows users to create accounts,
-deposit and withdraw funds,Generate ATM pin view account balances and transaction history, and transfer funds to other users.
+deposit and withdraw funds,Generate ATM pin view, account balances, transaction history, and transfer funds to other users.
 
 
 Usage
